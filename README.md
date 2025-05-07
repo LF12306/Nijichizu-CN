@@ -1,5 +1,4 @@
-# 推荐前往我的博客查看
-https://blog.yediao.dpdns.org/2025/05/01/%E8%99%B9%E5%92%B2%E6%9C%AA%E6%9D%A5%E5%9C%B0%E5%9B%BE%E8%A1%A5%E4%B8%81%E5%88%B6%E4%BD%9C/
+# 推荐前往[我的博客](https://blog.yediao.dpdns.org/2025/05/01/%E8%99%B9%E5%92%B2%E6%9C%AA%E6%9D%A5%E5%9C%B0%E5%9B%BE%E8%A1%A5%E4%B8%81%E5%88%B6%E4%BD%9C/)查看
 
 # 前言
 本次汉化补丁靠的是大家的共同努力，才能在五一前完成测试并上线。
